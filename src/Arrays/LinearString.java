@@ -1,3 +1,5 @@
+package Arrays;
+
 public class LinearString {
     public static int linearSearch(String[] menu,String key){
         for (int i=0; i<menu.length; i++){
